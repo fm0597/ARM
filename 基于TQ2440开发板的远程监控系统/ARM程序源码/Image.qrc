@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Image/delete1.jpg</file>
+        <file>Image/delete2.jpg</file>
+        <file>Image/expand1.jpg</file>
+        <file>Image/expand2.jpg</file>
+        <file>Image/narrow1.jpg</file>
+        <file>Image/narrow2.jpg</file>
+        <file>Image/next1.jpg</file>
+        <file>Image/next2.jpg</file>
+        <file>Image/open1.jpg</file>
+        <file>Image/open2.jpg</file>
+        <file>Image/previous1.jpg</file>
+        <file>Image/previous2.jpg</file>
+        <file>Image/adjust1.jpg</file>
+        <file>Image/adjust2.jpg</file>
+    </qresource>
+</RCC>
